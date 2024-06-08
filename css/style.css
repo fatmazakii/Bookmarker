@@ -1,0 +1,68 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color:#f7ecde ;
+    font-family:"PT Sans Caption", sans-serif ;
+}
+.header{
+    font-family: "Pacifico",cursive ;
+    color: #352e28;
+    font-size: 50px;
+    padding-top: 5rem;
+    padding-bottom: 30px;
+    text-align: center;
+    justify-content: center;
+   
+    isolation: isolate;
+}
+.bookmark-body{
+    border-width: 2px 0 2px 0;
+    border-style: dotted;
+    border-color: #352e28;
+}
+.bookmark-body h2{
+    font-family: "Righteous", cursive;
+    font-size: 25px;
+}
+h2{
+    font-weight: 900;
+    font-size: 25px;
+    background-image: linear-gradient(to right, #3ca55c, #b5ac49);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.site-name{
+    font-weight: 600;
+    padding-bottom: 0.5rem;
+}
+.site-URL{
+    font-weight: 600;
+    padding-bottom: 0.5rem;
+}
+label{
+    display: inline-block;
+}
+.btn-Submit {
+    color: #fff;
+    background-color:#d1512d;
+    text-align: center;
+    justify-content: center;
+}
+.button{
+    text-align: center;
+    justify-content: center;
+    margin-top: 15px;
+    padding-bottom: 30px;
+    
+}
+.btn-Submit:hover{
+    background-color: #bb4120;
+}
+.table{
+    text-align: center;
+    margin-top: 25px;
+}
